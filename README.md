@@ -2,7 +2,7 @@
 # Project Description
 The project is a web service application, that gives the user a detailed information about Italian tourism. The main objective of this website is to assist the user in giving the right information about best tourism packages available with the right offer and the most luxurious facilities in some of the scenic locations in Italy. This platform has been created to provide the best travelling services to the customers and it also promote reliable and fascinating tourism and also encourages a discovery of Italian culture, communities and festivals which in itself is intriguing. We create this system to establish and expand the structure of tourism that provides healthy interaction opportunities for tourists and natives and improves a better awareness of different cultures, traditional lifestyles, traditional knowledge and moralities. This system moreover provides a better way to connect with various events. 
 
-# The technologies that have been used for the project
+# The technologies used in the project
 ### For content management system
 Wordpress
 ### Front end

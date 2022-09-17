@@ -42,3 +42,10 @@ When the user clicks the link, it redirects to the website called "Paradise Vaca
 
 7. After confirming the booking, the user is redirected to a confirmation page which states that the booking is placed but will be confirmed only after the payment alongwith all the details.
 
+# Collaborators
+1. Nyan Soe: @nyan-soe
+2. Siddhant Saxena: @sidd-gif
+3. Siyan Tao: @SiyanTao1104
+4. Nick Fan: @imnkywf
+5. Runting Chen: @carlton435
+6. Abhilasha Singh: 

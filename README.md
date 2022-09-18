@@ -48,4 +48,4 @@ When the user clicks the link, it redirects to the website called "Paradise Vaca
 3. Siyan Tao: @SiyanTao1104
 4. Nick Fan: @imnkywf
 5. Runting Chen: @carlton435
-6. Abhilasha Singh: 
+6. Abhilasha Singh: @abhilasha-web
